@@ -1,4 +1,4 @@
-x=12
+x=1200
 y=20
 result = x * y
 print(result)
